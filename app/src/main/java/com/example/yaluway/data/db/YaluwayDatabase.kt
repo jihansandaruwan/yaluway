@@ -5,6 +5,7 @@ import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
 
+/** Local SQLite file `yaluway.db`. Version 2 adds request rows. */
 @Database(
     entities = [UserEntity::class, PostEntity::class, SavedPostEntity::class, RequestEntity::class],
     version = 2,
