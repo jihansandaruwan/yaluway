@@ -86,6 +86,7 @@
     <string name="mode_borrow">Borrow</string>
     <string name="mode_donate">Donate</string>
     <string name="mode_free">Free</string>
+    <string name="post_photo">Post photo</string>
     <string name="title_label">Title</string>
     <string name="description_label">Description</string>
     <string name="description_hint">Enter description...</string>
