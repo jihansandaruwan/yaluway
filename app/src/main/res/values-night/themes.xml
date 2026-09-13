@@ -1,0 +1,10 @@
+<resources>
+    <style name="Base.Theme.Yaluway" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/yalu_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/yalu_yellow</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/yalu_background</item>
+    </style>
+</resources>

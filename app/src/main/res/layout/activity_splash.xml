@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingStart="32dp"
+        android:paddingEnd="32dp">
+
+        <ImageView
+            android:layout_width="118dp"
+            android:layout_height="118dp"
+            android:contentDescription="@string/brand_name"
+            android:src="@drawable/yaluway_app_icon" />
+
+        <ImageView
+            android:layout_width="220dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="8dp"
+            android:contentDescription="@string/brand_name"
+            android:src="@drawable/yaluway_wordmark"
+            android:scaleType="fitCenter" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:gravity="center"
+            android:text="@string/tagline"
+            android:textColor="@color/yalu_navy"
+            android:textSize="14sp" />
+    </LinearLayout>
+</FrameLayout>

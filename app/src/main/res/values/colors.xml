@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="yalu_background">#F7F8FA</color>
+    <color name="yalu_blue">#2F6FED</color>
+    <color name="yalu_yellow">#F5C518</color>
+    <color name="yalu_navy">#1F2A44</color>
+    <color name="yalu_teal">#2BBBAD</color>
+    <color name="yalu_muted">#64748B</color>
+    <color name="yalu_hint">#99A1AB</color>
+    <color name="yalu_stroke">#E2E8F0</color>
+    <color name="yalu_chip">#F0F2F5</color>
+    <color name="yalu_logout">#E53333</color>
+    <color name="yalu_error">#E53333</color>
+    <color name="yalu_badge_help">#1F2A44</color>
+    <color name="yalu_badge_services">#2F6FED</color>
+    <color name="yalu_badge_market">#F5C518</color>
+    <color name="yalu_badge_borrow_bg">#FEF3C7</color>
+    <color name="yalu_badge_borrow_text">#92400E</color>
+</resources>
