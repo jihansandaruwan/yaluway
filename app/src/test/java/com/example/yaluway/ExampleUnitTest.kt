@@ -9,5 +9,6 @@ class ExampleUnitTest {
     fun registerRulesAreReady() {
         assertTrue(Validators.passwordsMatch("yaluway1", "yaluway1"))
         assertTrue(Validators.isStrongPassword("yaluway1"))
+        assertTrue(Validators.isValidPhone("071-234-5678"))
     }
 }
