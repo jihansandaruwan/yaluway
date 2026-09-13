@@ -31,16 +31,20 @@ class ValidatorsTest {
     @Test
     fun fullNameRejectsNumbers() {
         assertTrue(Validators.isValidFullName("Kasun Perera"))
+        assertTrue(Validators.isValidFullName("Anne-Marie Silva"))
         assertFalse(Validators.isValidFullName("Kasun123"))
         assertFalse(Validators.isValidFullName("12345"))
         assertFalse(Validators.isValidFullName(""))
+        assertFalse(Validators.isValidFullName("K"))
     }
 
     @Test
     fun phoneMustBeTenDigits() {
         assertTrue(Validators.isValidPhone("0712345678"))
         assertTrue(Validators.isValidPhone("071 234 5678"))
+        assertTrue(Validators.isValidPhone("011-2345678"))
         assertFalse(Validators.isValidPhone("712345678"))
+        assertFalse(Validators.isValidPhone("1712345678"))
         assertFalse(Validators.isValidPhone("07123"))
         assertFalse(Validators.isValidPhone("Nugegoda"))
     }
