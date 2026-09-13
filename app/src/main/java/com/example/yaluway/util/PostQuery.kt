@@ -3,6 +3,7 @@ package com.example.yaluway.util
 import com.example.yaluway.model.Post
 import com.example.yaluway.model.PostCategory
 
+/** Search, category, help-chip, and nearby filters for the home list. */
 object PostQuery {
 
     fun filter(

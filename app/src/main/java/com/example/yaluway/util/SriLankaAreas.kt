@@ -1,5 +1,6 @@
 package com.example.yaluway.util
 
+/** Official city names and nearby clusters used by the home feed filter. */
 object SriLankaAreas {
     val all = listOf(
         "Ampara", "Anuradhapura", "Athurugiriya", "Avissawella",

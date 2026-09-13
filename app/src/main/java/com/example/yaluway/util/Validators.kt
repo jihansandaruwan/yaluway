@@ -1,5 +1,6 @@
 package com.example.yaluway.util
 
+/** Shared register, login, and create-post rules. The UI shows red errors live. */
 object Validators {
 
     private val namePattern = Regex("^[A-Za-z]+([ .'-][A-Za-z]+)*$")
