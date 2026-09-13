@@ -3,6 +3,7 @@ package com.example.yaluway.data
 import android.content.Context
 import com.example.yaluway.model.MyCredentials
 
+/** Keeps the logged-in email in SharedPreferences so the session survives app restarts. */
 object SessionManager {
     private const val PREFS = "yaluway_session"
     private const val KEY_EMAIL = "logged_in_email"

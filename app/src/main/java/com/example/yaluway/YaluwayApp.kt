@@ -5,6 +5,7 @@ import com.example.yaluway.data.PostRepository
 import com.example.yaluway.data.SessionManager
 import com.example.yaluway.data.UserRepository
 
+/** Starts Room repositories and restores the last login before any screen opens. */
 class YaluwayApp : Application() {
     override fun onCreate() {
         super.onCreate()
