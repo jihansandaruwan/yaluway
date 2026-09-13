@@ -71,7 +71,7 @@
     <string name="saved_items">Saved items</string>
     <string name="area_settings">Area settings</string>
     <string name="log_out">Logout</string>
-    <string name="profile_area_line">%1$s · Hostel A</string>
+    <string name="profile_area_line">Lives in %1$s</string>
 
     <string name="post_detail">Post detail</string>
     <string name="send_request">Send request</string>

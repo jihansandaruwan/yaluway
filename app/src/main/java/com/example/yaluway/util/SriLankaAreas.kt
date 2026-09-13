@@ -41,7 +41,7 @@ object SriLankaAreas {
             "Battaramulla", "Rajagiriya", "Dehiwala", "Mount Lavinia", "Moratuwa",
             "Nawala", "Malabe", "Kaduwela", "Homagama", "Piliyandala", "Boralesgamuwa",
             "Kottawa", "Pannipitiya", "Thalawathugoda", "Athurugiriya", "Wellawatte",
-            "Kollupitiya", "Kesbewa", "Hostel A"
+            "Kollupitiya", "Kesbewa"
         ),
         setOf("Gampaha", "Kelaniya", "Kiribathgoda", "Kadawatha"),
         setOf("Kalutara", "Panadura", "Horana", "Beruwala"),
