@@ -14,3 +14,8 @@ app/build/
 *.aab
 tmp-db/
 ~$*
+*.docx
+*.pdf
+*.py
+Yaluway_Brand_Assets/
+Yaluway_Figma_Mockups/

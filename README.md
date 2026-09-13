@@ -25,11 +25,3 @@ A Kotlin Android app for neighbours to post **Help**, **Services**, and **Market
 3. Log out and register a second account in the same city.
 4. Send a request on the first post, then log back in as the owner and Accept.
 5. Log in with a Kandy account to show the nearby feed change.
-
-## Documentation
-
-- `IT22294548 Sandaruwan W J - MADD Documentation.pdf`
-- `IT22294548 Sandaruwan W J - MADD UI Prototype.pdf`
-- `IT22294548 Sandaruwan W J - MADD proposal.pdf`
-
-Figma prototype: https://www.figma.com/design/0UVq1JYisRj6rl7UoadYFi/Untitled
